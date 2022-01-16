@@ -1,2 +1,2 @@
 # ChildProject
-Testing SubModules
+Testing SubModules updated
